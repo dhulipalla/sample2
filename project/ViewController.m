@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
     
-    NSLog(@"Change from srikanth");
+   // NSLog(@"Change from srikanth");
 
     
 	// Do any additional setup after loading the view, typically from a nib.

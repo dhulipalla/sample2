@@ -24,6 +24,7 @@
 		DB22290617D604E50003CE08 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB2228DE17D604E40003CE08 /* Foundation.framework */; };
 		DB22290E17D604E50003CE08 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = DB22290C17D604E50003CE08 /* InfoPlist.strings */; };
 		DB22291117D604E50003CE08 /* projectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DB22291017D604E50003CE08 /* projectTests.m */; };
+		DB22291B17D620E60003CE08 /* IMG_6852.JPG in Resources */ = {isa = PBXBuildFile; fileRef = DB22291A17D620E60003CE08 /* IMG_6852.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		DB22290D17D604E50003CE08 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DB22290F17D604E50003CE08 /* projectTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = projectTests.h; sourceTree = "<group>"; };
 		DB22291017D604E50003CE08 /* projectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = projectTests.m; sourceTree = "<group>"; };
+		DB22291A17D620E60003CE08 /* IMG_6852.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_6852.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				DB2228E417D604E40003CE08 /* project-Info.plist */,
+				DB22291A17D620E60003CE08 /* IMG_6852.JPG */,
 				DB2228E517D604E40003CE08 /* InfoPlist.strings */,
 				DB2228E817D604E40003CE08 /* main.m */,
 				DB2228EA17D604E40003CE08 /* project-Prefix.pch */,
@@ -240,6 +243,7 @@
 				DB2228F317D604E40003CE08 /* Default-568h@2x.png in Resources */,
 				DB2228F917D604E40003CE08 /* ViewController_iPhone.xib in Resources */,
 				DB2228FC17D604E40003CE08 /* ViewController_iPad.xib in Resources */,
+				DB22291B17D620E60003CE08 /* IMG_6852.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,6 +471,7 @@
 				DB22291617D604E50003CE08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DB22291717D604E50003CE08 /* Build configuration list for PBXNativeTarget "projectTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +480,7 @@
 				DB22291917D604E50003CE08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
